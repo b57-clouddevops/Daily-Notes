@@ -1,4 +1,10 @@
-What all topics or concepts we have covered today ?
+### What all topics or concepts we have covered today ?
+
+```
+All the answers to these topics and be seen in this video :
+    https://youtu.be/zQ7-LJWEVWc
+
+```
 
 1) What is password-less authentication in linux and how it works ?
 
