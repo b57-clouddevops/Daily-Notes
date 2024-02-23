@@ -1,3 +1,10 @@
+### Reference Video 
+
+```
+    https://youtu.be/mQMqz-I2aEU
+```
+
+
 ### AMI To Use In N.Virginia
 
 ```
@@ -30,5 +37,4 @@
 
 7) What is 60 - 40 when creating Instances 
 
-
-
+8) Extensive discssion on SPOT.
