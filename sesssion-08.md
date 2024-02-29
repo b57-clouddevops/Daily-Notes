@@ -55,7 +55,7 @@
 11) Linux Run Levels
 
 ```
-    0 :   Shutdown 
+    0 :   Shutdown
     1 :   SINGLE USER MODE  ( During Maintenance )
     2 :   Multi-user Mode without NFS  ( No GUI )
     3 :   Multi User Mode with complete CLI ( Network / NFS wiil available )
