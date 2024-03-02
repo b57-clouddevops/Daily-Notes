@@ -18,8 +18,8 @@
     a) Download the needed package from the repository and then ensure all the needed packages for the package you're installing are available and then install the downloaded package ( using rpm )
 
  ```       Ex: wget https://example.com/file.rpm
-            sudo rpm -ivh file.rpm
-            sudo rpm -Uvh https://example.com/file.rpm
+               sudo rpm -ivh file.rpm
+               sudo rpm -Uvh https://example.com/file.rpm
 ```
     b) Usage of package manager in linux and this varies based on the flavor and distribution of linux ( recommended option ). When you use yum, all the pre-requisite software for the package-x that you're installing will be handled by the Package manager
 ```
@@ -32,11 +32,9 @@
 4) Linux is an OS with thousands of packages and your OS would be needing few of them. By default, any linux comes with default packages installed. 
 
 ```
-    $ yum list installes     ( shows list of installed packages )
+    $ yum list installed    ( shows list of installed packages )
     $ yum list available 
-    $ 
 ```
-
 
 5) Google ---> ARM64 vs AMD64 vs RISC vs CISC based CPU Architecture.
 
@@ -78,8 +76,6 @@ It's based on the os!
 ```
 
 ### Network Management 
-
-
 
 1) In total, 65535 ports are available in any computing based machine that offers networkings.
 2) Out of which first 1024 or 0 to 1023 are reserved or the default ports.
