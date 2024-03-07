@@ -44,7 +44,7 @@ Public Domains are sold by GoDaddy, Hostinger, FreeNom.
     2) You're planning to move to cloud and would like to Migrate your Domain to Cloud Route 53 due to some advanced features
     3) How are we going to move. 
 
-## Bomain Migration Steps : 
+## Domain Migration Steps : 
     1) Let's buy a domain  ( AWS or GoDaddy or Hostinger ) and verify it by verifying the email you receive
     2) And then create a Public Hosted Zone On AWS Route53 ( Ensure the name should be the one you bought above )
     3) Copy the NAMESERVERS offered on the Route53 Domain that you've crated
