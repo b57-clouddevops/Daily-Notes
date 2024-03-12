@@ -1,0 +1,1 @@
+Bascis of bash and can be see in https://github.com/b57-clouddevops/Shell-Scripting
