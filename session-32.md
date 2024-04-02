@@ -47,7 +47,7 @@ In order to achieve this, we need to have a frameWork that's capable of integrat
 
 ### Jenkins is all about jobs : 
 
-        1) Free Style Jobs   ( v1 )  : GUI 
+        1) FreeStyle Jobs    ( v1 )  : GUI 
         2) Pipeline Jobs     ( v2 )  : Everything is a code based approach and we love it
 
 ### What is gitops and why gitops approach is preferred in 3 lines ?
@@ -58,3 +58,9 @@ GitOps manages infrastructure/configuration/process using Git as the source of t
 Changes made by committing code to a Git repository, which triggers an automated process to apply those changes in your environment. This approach is preferred because it offers version control, declarative configuration, and easier rollbacks.
 
 ```
+
+### Pipeline Jobs are of 3 types :
+
+        1) Scripted Pipelines       ( needs some groovy expertise : very wise way of doing things )
+        2) Declarative Pipeline     ( DSL : Jenkins Highly Recommends it)
+        3) YAML Approach            ( Future )
