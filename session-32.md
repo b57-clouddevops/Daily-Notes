@@ -21,7 +21,7 @@ In the past, developers on a team might work in isolation for an extended period
             ii) Identifies the duplicate code patterns 
             iii) It also identifies popular vulnerabilties and bad coding standards that are marked in the code as per OWASP 
 
-        Tool : SonarQube , GHAS
+        Tool : SonarQube , GHAS, CheckMark , Veracode 
     
     2) DAST : Dynamic Application Security Testing ( Once the application deployed, using the known hacking/vulnerability patterns will be executed aganst your application endPoint )
 
