@@ -1,5 +1,3 @@
-
-
 Till now we are good with CI, that means we made Software , tagged it and published it to NEXUS.
 
 Whenever we decide to make Release on any version, using CI/CD we are going to deploy the verison to Infra.
@@ -38,7 +36,6 @@ What's the alternative's to Terraform ?
     2) Pulumi          ( This is still evolving : For dev's, they can create infra by using java, node, go  . . . )
 
     But with Terraform, it's openSource and cloud agnosistic
-
 
 Remember, HCL Version & Terraform version are 2 different things.
 
