@@ -1,8 +1,10 @@
 ### What we will discuss today ?
     1) Functions 
     2) Dynamic Blocks
-    3) Conditions
-    4) Networking zero-to-hero
+    3) Conditions ( ifElse )
+    4) Loops : for_each 
+    5) Networking zero-to-hero
+
 
 for_each, count (count.index) , if_else
 
