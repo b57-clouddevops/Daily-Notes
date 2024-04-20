@@ -66,6 +66,6 @@ Just by looking at the first octet, we can say which class IP Address it is :
     On prod : 1024  (10.10.0.0/22)
 
 
-### Public vs Private Subnet 
+### Public vs Private Subnet     
     Public Subnet  : Machines that are launched in this subnet will have public ip address and may/may not be accessible from the internet.
     Private Subnet : Machines that are launched in this subnet will have only have private ip address and cannot be accessible from the internet.
