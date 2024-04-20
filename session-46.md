@@ -12,7 +12,10 @@
     9) Create private RT , attach it to the Private Subnet. Now create a route as 0.0.0.0/0 NGW-
     10) Now private machines will get access to the internt.
     11) Still your default network 172.31.*.* network cannot talk to 10 series network and for that we do something called as Network Peering.
-    12) If you peer 2 networks, communication between them can be private and 172 and 10 serivces are resolved respectively.
+    12) If you peer 2 networks, communication between them can be private and 172 and 10 serivces are resolved respectively. 
+    13) Create Peering Connection between default and roboshop-dev vpc 
+    14) Now update route tables with this peering as route
+    15) Post this, default network and roboshop-dev vpc can talk using the private IP Address.
 
 How we would like to implement the public network is :
 
