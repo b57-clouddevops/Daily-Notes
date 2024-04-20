@@ -28,3 +28,6 @@ Assignment for you ?
 Peering between the VPC's : ( Peering only works if source and destination CIDR's won't overlap )
     1) Can be done if both of the are in the same regions or different region
     2) Same account or different account.
+
+
+Transit Gateway : This is used if we have more than 2 VPC's to be peered.
