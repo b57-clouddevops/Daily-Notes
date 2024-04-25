@@ -13,6 +13,11 @@ In reality, DB's are always preferred ot be on the top of Managed Services ( PaS
     4) RabbitMQ     ------->    AmazonMQ  ( Our application is not compatible with AmazonMQ : So, we stick to RabbitMQ on EC2 only )
 
 
+Instana supplied code for mongodb is designed to work without userName and password for the database.
+
+But in AWS, DB's won't entertain the authenticaiton without password ( RDS & MYSQL ) :
+    To mitigate this, we have taken help from the nodejs developer to make it work from DocumentDB ( a managed service on aws for MongoDB )
+
 Here is the strategy
 
     root-Module     ------->  terraform-databases 
