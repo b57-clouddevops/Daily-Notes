@@ -17,3 +17,5 @@ Here is the strategy
 
     root-Module     ------->  terraform-databases 
     backendModules  ------->  tf-module-mysql , tf-module-elasticcache , tf-module-redis , tf-module-rabbitmq
+
+In this session, we will see very nice aspects , challenges and unique use-cases with terraform and we will stick to 100% of the terraform standards.
